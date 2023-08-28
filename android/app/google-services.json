@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "761238686984",
+    "project_id": "stagshopping-407f1",
+    "storage_bucket": "stagshopping-407f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761238686984:android:dfe9decda5fd0de44670bd",
+        "android_client_info": {
+          "package_name": "com.example.stag_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761238686984-l4tk9hkh5jdj0jme5d82pn2ut69t4oqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stag_shopping",
+            "certificate_hash": "b7c1c91b9565993fd5761cca8e1625f7104e0bb4"
+          }
+        },
+        {
+          "client_id": "761238686984-bpfn8l497js2s0dgdc6hc6lv0v45j69g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKrBnG2AxwFMhm3l2MxbVrZQbRNj1emsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761238686984-bpfn8l497js2s0dgdc6hc6lv0v45j69g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
